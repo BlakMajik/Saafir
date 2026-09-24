@@ -1,0 +1,16 @@
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary / Scratch files
+*.log
+*.tmp
+assets/images/IMG_1140.png
+assets/images/IMG_1140_cropped.jpeg
